@@ -1,0 +1,74 @@
+body{
+    background-color:rgb(214, 222, 230)
+
+}
+
+.tableh1{
+
+    color: brown;
+    border: 3px solid black;
+    margin-right: 700px;
+    margin-top: 30px;
+    border-radius: 40px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+
+
+.skillh1{
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 700px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+  
+}
+
+#studyh1{
+
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 3px solid black;
+    margin-right: 700px;
+    margin-top: 30px;
+    border-radius: 40px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.fieldset{
+   
+    border: 5px solid black;
+    border-radius: 30px;
+    margin-right: 40%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.legend{
+
+    margin-left: 60px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.form{
+
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+    
+
+    
